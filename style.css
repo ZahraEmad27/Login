@@ -4,6 +4,9 @@ margin: 0;
 box-sizing: border-box;
 }
 
+.signup-card{
+  height: auto;
+}
 .row{
   background: white;
   border-radius: 30px;
@@ -30,6 +33,11 @@ outline: none;
 border-radius: 60px;
 -webkit-box-shadow: -5px 2px 13px 0px rgba(0,0,0,0.64); 
 box-shadow: -5px 2px 13px 0px rgba(0,0,0,0.64);
+}
+
+.input-icon{
+font-family: 'Font awesome 5 Free'; 
+font-weight: 700;
 }
 
 .btn1{
